@@ -1,0 +1,11 @@
+[bspace]>[kpshft]
+[pup]>[ralt]
+[pdown]>[lalt]
+{kp7}>{-lshift}{-lalt}{j}{+lshift}{+lalt}
+{kp8}>{-lshift}{-lalt}{k}{+lshift}{+lalt}
+{kp9}>{-lshift}{-lctrl}{j}{+lshift}{+lctrl}
+{kp4}>{-lalt}{j}{+lalt}
+{kp5}>{-lalt}{k}{+lalt}
+{kp6}>{-lshift}{-lctrl}{-lalt}{l}{+lshift}{+lctrl}{+lalt}
+[kp-bspace]>[kpshft]
+[kp-rshift]>[escape]
