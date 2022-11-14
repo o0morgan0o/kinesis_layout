@@ -9,3 +9,4 @@
 {kp6}>{-lshift}{-lctrl}{-lalt}{l}{+lshift}{+lctrl}{+lalt}
 [kp-bspace]>[kpshft]
 [kp-rshift]>[escape]
+{kp-h}>{-lalt}{tab}{+lalt}
