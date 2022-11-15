@@ -1,5 +1,7 @@
-[']>[lalt]
-[bspace]>[kpshft]
+[=]>[escape]
+[']>[kpshft]
+[kp-']>[kpshft]
+[bspace]>[lalt]
 [kp-q]>[obrack]
 [kp-w]>[cbrack]
 {kp-y}>{speed5}{-lshift}{'}{+lshift}
@@ -10,7 +12,7 @@
 {kp-h}>{speed5}{'}
 [kp-x]>[kpplus]
 [kp-c]>[=]
-[kp-bspace]>[kpshft]
+[kp-bspace]>[lalt]
 [delete]>[escape]
 [pup]>[ralt]
 {kp-n}>{speed5}{-lalt}{tab}{+lalt}
