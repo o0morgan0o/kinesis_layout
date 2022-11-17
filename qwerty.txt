@@ -23,3 +23,5 @@
 [kp-up]>[kp-down]
 [kp-down]>[kp-up]
 [intl-\]>[\]
+[end]>[kpshft]
+[kp-end]>[kpshft]
